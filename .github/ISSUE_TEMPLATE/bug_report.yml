@@ -31,7 +31,7 @@ body:
     attributes:
       label: Version
       description: Specify the exact version.
-      placeholder: "1.0.0"
+      placeholder: '1.0.0'
     validations:
       required: true
   - type: markdown
